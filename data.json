@@ -1,0 +1,72 @@
+[
+    {
+        "id":1,
+        "src":"./images/mouse-1.jpeg",
+        "category":"gamer-mouse",
+        "price":2000,
+        "description":"X5-Gamer Nano-Tech"
+    },
+    {
+        "id":2,
+        "src":"./images/mouse-2.jpeg",
+        "category":"gamer-mouse",
+        "price":5000,
+        "description":"Y9-Gamer Silver-Tech"
+    },
+    {
+        "id":3,
+        "src":"./images/mouse-3.jpeg",
+        "category":"gamer-mouse",
+        "price":8000,
+        "description":"A5-Gamer Gold-Tech"
+    },
+    {
+        "id":4,
+        "src":"./images/keyboard-1.jpeg",
+        "category":"gamer-keyboard",
+        "price":11000,
+        "description":"A5-Gamer Gold-Tech"
+    },
+    {
+        "id":5,
+        "src":"./images/keyboard-2.jpeg",
+        "category":"gamer-keyboard",
+        "price":16000,
+        "description":"A5-Gamer Silver-Tech"
+    },
+    {
+        "id":6,
+        "src":"./images/keyboard-3.jpeg",
+        "category":"gamer-keyboard",
+        "price":19000,
+        "description":"A5-Gamer Diamond-Tech"
+    },
+    {
+        "id":7,
+        "src":"./images/Head-Set-3.jpeg",
+        "category":"gamer-headSet",
+        "price":32000,
+        "description":"A5-Gamer Gold-Tech"
+    },
+    {
+        "id":8,
+        "src":"./images/Head-Set-4.jpeg",
+        "category":"gamer-headSet",
+        "price":11000,
+        "description":"A5-Gamer Silver-Tech"
+    },
+    {
+        "id":9,
+        "src":"./images/Head-Set-5.jpeg",
+        "category":"gamer-headSet",
+        "price":1000,
+        "description":"A5-Gamer Veteran-Tech"
+    },
+    {
+        "id":10,
+        "src":"./images/pc.jpeg",
+        "category":"gamer-pc",
+        "price":102000,
+        "description":"Full Set Gamer Packet"
+    }
+]

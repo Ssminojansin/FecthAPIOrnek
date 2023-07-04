@@ -1,0 +1,37 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+.mouse-items{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 300px !important;
+    height: 370px;
+    border: 1px solid black;
+    box-shadow: 1px 1px 18px black;
+    margin-top: 50px !important;
+}
+.mouse-items img{
+    width: 200px;
+    height: 200px;
+    border-radius: 18px;
+}
+.sepet{
+    display: flex;
+    justify-content: center;
+    width: 80px;
+}
+.sepet i{
+    font-size: 2rem;
+    cursor: pointer;
+}
+.basket{
+    display: none;
+    width: 300px;
+    height: 1000px;
+    background-color: black;
+    right: 0;
+}
